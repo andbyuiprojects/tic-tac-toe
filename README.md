@@ -9,7 +9,7 @@ I used Visual Studio Code as my IDE for Rust. I think VS Code is very intuitive 
 # Useful Websites
 - [Rust](https://www.rust-lang.org/learn)
 - [DOCS.RS](https://docs.rs/)
-- [DOCS.RS(termcolor](https://docs.rs/termcolor/latest/termcolor/index.html)
+- [DOCS.RS(termcolor)](https://docs.rs/termcolor/latest/termcolor/index.html)
 
 # Future Work
 - Better user interface
