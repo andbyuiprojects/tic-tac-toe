@@ -1,32 +1,17 @@
 # Overview
+I chose to create this program in Rust to help me to work with object oriented programming more, and to stretch myself with a more verbose language. I also wanted something that I could make a little different then the other tic-tac-toes and add a little bit of color by using a library. I wrote tic-tac-toe to be able to work with multiple functions, a game loop, handle user input and wor with loops.
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the software that you wrote to demonstrate the Rust language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/oK7kfzz7dno)
 
 # Development Environment
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+I used Visual Studio Code as my IDE for Rust. I think VS Code is very intuitive with its language writing, and it is very streamlined. I also used the termcolor library, which gave me the ability to add color to X adn O in any way I desired. Making it stand out a bit from other tic-tac-toe games one may see in Rust.
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Rust](https://www.rust-lang.org/learn)
+- [DOCS.RS](https://docs.rs/)
+- [DOCS.RS](https://docs.rs/termcolor/latest/termcolor/index.html)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Better user interface
+- More clear and defined messages displayed to the user
+- A GUI for the Game (such as a pop out window)
